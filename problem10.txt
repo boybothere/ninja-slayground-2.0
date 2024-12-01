@@ -1,0 +1,11 @@
+Problem statement
+Given an array 'v' of 'n' numbers.
+
+Your task is to find and return the highest and lowest frequency elements.
+
+If there are multiple elements that have the highest frequency or lowest frequency, pick the smallest element.
+
+Example:
+Input: ‘n' = 6, 'v' = [1, 2, 3, 1, 1, 4]
+
+Output: 1 2
